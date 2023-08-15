@@ -11,12 +11,17 @@ contributor:
     deathdate: 1935
     gutenberg_agent_id: '7581'
     url: http://www.gutenberg.org/2009/agents/7581
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Shaw, Catharine
     gutenberg_agent_id: '38947'
     url: http://www.gutenberg.org/2009/agents/38947
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71243#Hosanna-b-Bible-stories-retold
 gutenberg_issued: '2023-07-21'
 identifiers:
   gutenberg: '71243'
